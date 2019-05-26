@@ -1,7 +1,7 @@
 def my_hash
   my_hash = {
-  day = "Sunday"
-  weather = "sunny"
+  "day" => "Sunday"
+  "weather" => "sunny"
   }
 end
 
