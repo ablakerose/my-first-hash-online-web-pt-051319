@@ -15,6 +15,7 @@ def shipping_manifest
     "porcelain vases" => 2,
     "oil paintins"  => 3
   }
+  the_manifest
 
 end
 
